@@ -1,0 +1,14 @@
+node_modules/
+build/
+coverage/
+
+config/qa/azureCredentials.json
+config/dogfood/azureCredentials.json
+config/latest/azureCredentials.json
+config/production/azureCredentials.json
+
+npm-debug.log
+phantomjsdriver.log
+.DS_Store
+.brackets.json
+.cache-loader
